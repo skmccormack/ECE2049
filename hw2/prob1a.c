@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #define  MAX_PTS 300
 
-// IMPORTANT: PUT YOUR NAME AND ECE BOX NUMBER HERE!!! 
+// Shannon McCormack, 221
 voidmain(void)
 {     // Give total size (in bytes) of these variables as declared.
   int   in[MAX_PTS], parabola[MAX_PTS];  //300 bytes, 300 bytes
